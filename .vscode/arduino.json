@@ -1,5 +1,6 @@
 {
-    "board": "arduino:mbed_nano:nanorp2040connect",
+    "board": "rp2040:rp2040:arduino_nano_connect",
     "port": "COM5",
-    "sketch": "than.ino\\than.ino.ino"
+    "sketch": "than.ino\\than.ino.ino",
+    "configuration": "flash=16777216_0,freq=133,opt=Small,rtti=Disabled,stackprotect=Disabled,exceptions=Disabled,dbgport=Disabled,dbglvl=None,usbstack=picosdk,ipbtstack=ipv4only,uploadmethod=default"
 }
