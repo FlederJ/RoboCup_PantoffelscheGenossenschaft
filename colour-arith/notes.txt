@@ -1,0 +1,13 @@
+Sensor 1:
+green:
+275 335 271 913 OLD
+NEW:
+770 1851 1212 3974 	
+
+Sensor 2;
+green:
+195 281 227 668 OLD
+NEW:
+785 2102 1436 4101 (closer to ground)
+
+therefore: green is when g is biggest, with considerable difference, and the brightness is 400 +- 200

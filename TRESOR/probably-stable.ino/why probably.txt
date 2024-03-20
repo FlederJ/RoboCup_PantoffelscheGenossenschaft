@@ -1,0 +1,2 @@
+Ein temp_value wird benutzt, um die Werte des Reflektionssensors halbwegs zu normen.
+Dabei wird viel zu viel abgezogen und die ganze Operation ist unnötig.
